@@ -1,4 +1,4 @@
-# hr-employee-attrition-analysis
+# HR-Employee-Attrition-Analysis
 Excel-based analysis of employee attrition drivers using the IBM HR Analytics dataset — pivot tables, chi-square significance testing, and an interactive dashboard.
 # Objective
 Determine the key drivers of employee attrition and identify high-risk employee segments to help HR prioritize retention strategies.
